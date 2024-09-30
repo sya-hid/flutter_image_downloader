@@ -1,20 +1,21 @@
-<<<<<<< HEAD
 # flutter_downloader_image
-=======
-# flutter_downloader
 
-A new Flutter project.
+## Support
 
-## Getting Started
+<p>
+<a href="https://sociabuzz.com/syarifhidayatullah2020/tribe" target='_blank'>
+<img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" width="100"></a>
 
-This project is a starting point for a Flutter application.
+<a href="https://www.buymeacoffee.com/syarifhidayat"  target='_blank'>
+<img src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" width="100"></a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> a5ba25f (Initial commit)
+<p align="middle">
+<img src="assets/Screenshot_1725889198.png" width="200">
+<img src="assets/Screenshot_1725889378.png" width="200">
+<img src="assets/Screenshot_1725889389.png" width="200">
+</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.flutter_image_downloader"/>  
